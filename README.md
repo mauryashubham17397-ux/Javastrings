@@ -1,2 +1,0 @@
-# Javastrings
-my first repository
